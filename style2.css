@@ -1,0 +1,196 @@
+*{
+    margin: 0;padding: 0;
+}
+.rect1{
+    background-color: #656CEC;
+    height: 100px;
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-bottom: 3px;
+}
+.rec2{
+    height: 350px;
+    background-color: #656CEC;
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 64px;
+}
+.c1{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: rgba(186, 190, 255, 1);;
+    top: 180px;
+    left: 620px;
+    padding: 2px;
+    border: 6px solid white;
+}
+.i1{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+.c2{
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    background-color: rgba(186, 190, 255, 1);
+    left: 850px; 
+    top: 160px;
+    border: 6px solid white;
+}
+.i2{
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+.c3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgba(186, 190, 255, 1);
+    top: 200px;
+    left: 1120px;
+    border: 6px solid white;
+}
+.i3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.s1{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:  rgba(186, 190, 255, 1);
+    bottom: 50px;
+    left: 70px;
+    text-align: center;font-size: 24px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+}
+.s2{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:  rgba(186, 190, 255, 1);
+    bottom: 40px;
+    left: 93px;
+    text-align: center;font-size: 24px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+}
+.s3{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:  rgba(186, 190, 255, 1);
+    bottom: 160px;
+    left: 58px;
+    text-align: center;font-size: 24px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+}
+.r1{
+    position: relative;
+    width: 220px;
+    height: 30px;
+    border-radius: 16px;
+    background-color:  rgba(186, 190, 255, 1);
+    top: 170px;
+    right: 30px;
+    text-align: center;font-size: 24px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+}
+.r2{
+    position: relative;
+    width: 290px;
+    height: 30px;
+    border-radius: 16px;
+    background-color:  rgba(186, 190, 255, 1);
+    top: 210px;
+    right: 40px;
+    text-align: center;font-size: 28px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+}
+.r3{
+    position: relative;
+    width: 200px;
+    height: 25px;
+    border-radius: 16px;
+    background-color:  rgba(186, 190, 255, 1);
+    top: 170px;
+    right: 20px;
+    text-align: center;font-size: 22px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+}
+.rect3,.rect4,.rect5,.rect6,.rect7,.rect8{
+    height: 100px;
+    background-color: rgba(210, 212, 242, 1);
+    margin-top: 23px;
+    padding: 5px;
+}
+.s4,.s5,.s6,.s7,.s8,.s9{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: rgba(186, 190, 255, 1);;
+    top: -30px;
+    left: 160px;
+    padding: 2px;
+    border: 3px solid white;
+}
+.i4,.i5,.i6,.i7,.i8,.i9{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.p4,.p5,.p6,.p7,.p8,.p9{
+    position: relative;
+    font-family: 'Inter','Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 400;
+    left: 33px;
+    top: 30px;
+}
+.n4,.n5,.n6,.n7,.n8,.n9{
+    display: inline-block;
+    width: 350px;
+    position: relative;
+    font-family: 'Inter','Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight: 400;
+    left: 350px;
+    top: 30px;
+}
+.m4,.m5,.m6,.m7,.m8,.m9{
+    position: relative;
+    font-family: 'Inter','Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight: 400;
+    left: 1200px;
+    top: 30px;
+}
